@@ -10135,3 +10135,18 @@ textarea.form-control {
 
 
 
+div.icon{
+  font-size:90px;
+  text-align: center;
+  color:#DAA520;
+}
+
+div.title{
+  text-align: center;
+  color:#DAA520;
+}
+
+div.desc{
+  text-align: center;
+  color:#DAA520;
+}
