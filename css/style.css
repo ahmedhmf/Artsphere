@@ -51,7 +51,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: 'Noto Serif', serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -8132,7 +8132,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: 'Noto Serif', serif;
   background: #fff;
   font-size: 16px;
   line-height: 1.8;
